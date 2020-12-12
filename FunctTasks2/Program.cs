@@ -1,15 +1,14 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Diagnostics.CodeAnalysis;
 
 namespace FunctTasks2
 {
-    class Program : IComparer<int>
+    class Program
     {
         static void Main(string[] args)
         {
-            Task3();
+            Task4();
         }
 
         private static void Task1()
@@ -145,8 +144,23 @@ namespace FunctTasks2
                 {
                     ints[i] = Int32.Parse(strs[i]);
                 }
+
                 return ints;
             };
+
+            var comparer = Comparer<int>.Create((x, y) =>
+            {
+                if (x % 2 == 0 && y % 2 != 0)
+                    return -1;
+                if (x % 2 != 0 && y % 2 == 0)
+                    return 1;
+                return x.CompareTo(y);
+            });
+
+            var num = parse(str);
+            Array.Sort(num, comparer);
+
+            Console.WriteLine(string.Join(" ", num));
         }
     }
 }

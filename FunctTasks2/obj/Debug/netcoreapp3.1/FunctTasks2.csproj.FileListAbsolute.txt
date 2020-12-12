@@ -10,3 +10,7 @@ C:\Users\goldl\source\repos\FunctTasks2\FunctTasks2\obj\Debug\netcoreapp3.1\Func
 C:\Users\goldl\source\repos\FunctTasks2\FunctTasks2\obj\Debug\netcoreapp3.1\FunctTasks2.dll
 C:\Users\goldl\source\repos\FunctTasks2\FunctTasks2\obj\Debug\netcoreapp3.1\FunctTasks2.pdb
 C:\Users\goldl\source\repos\FunctTasks2\FunctTasks2\obj\Debug\netcoreapp3.1\FunctTasks2.genruntimeconfig.cache
+C:\Users\goldl\source\repos\FunctTasks2\FunctTasks2\obj\Debug\netcoreapp3.1\FunctTasks2.csproj.CoreCompileInputs.cache
+C:\Users\goldl\source\repos\FunctTasks2\FunctTasks2\bin\Debug\netcoreapp3.1\Unity.Abstractions.dll
+C:\Users\goldl\source\repos\FunctTasks2\FunctTasks2\bin\Debug\netcoreapp3.1\Unity.Container.dll
+C:\Users\goldl\source\repos\FunctTasks2\FunctTasks2\obj\Debug\netcoreapp3.1\FunctTasks2.csproj.CopyComplete
