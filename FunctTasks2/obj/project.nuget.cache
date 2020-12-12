@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3XlEQR/Uoqf30q+mNZI/7SWvtj4T1Qlq19QAlK6p3MePWbSzC5pSeZJGSMRIg+MHJuaVQRYQChezA02/ro1FLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\goldl\\source\\repos\\FunctTasks2\\FunctTasks2\\FunctTasks2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\goldl\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\goldl\\.nuget\\packages\\unity\\5.11.9\\unity.5.11.9.nupkg.sha512"
+  ],
+  "logs": []
+}
